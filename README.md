@@ -4,7 +4,8 @@
 ## Index
    - [Demo](#Demo "Goto Demo")
    - [Description](#Description "Goto Description")
-   - [Structure](#Structure "Goto Structure")
+   - [Structure of outputs](#Structure "Goto Structure")
+   - [Final thoughts](#Thoughts "Goto Thoughts")
 
 ## Demo
 ![alt text](https://github.com/DZykov/java-gen-alg/blob/main/img/show_case.png)
@@ -43,19 +44,10 @@ Living creatures have genes that consist of 32 actions. There 8 possible actions
 |6   |look down by 3 squares |
 |7   |look left by 3 squares |
 
-4) GA (short description)
-brain of individuals:
-	Right know, individuals have no idea about walls, and how to properly see apples and poison, due to the lack of my code. (it 	
-	is more correct to say "due to the fact of my laziness"). Due to the fact that individuals have no idea about walls, and how to 
-	properly see apples and poison, best solution for this current problem is stay on the same spot, do not move. So, gene is going 
-	to contain only "look" commands. *GA find this solution. It took 1867 generations (approximately 16-17 hours). Probably, it    	
-	could be faster or slowly. It depends on a luck of a mutation. Mutation is the main force of GA*
+## Structure
 
-function FitnessCalc.setSolution("integer with length of 32")
-	If FitnessCalc.setSolution("int") was setted, GA is going to work qucker, but GA will give only one solution (our solution.it 	
-	will be find approximately in 400-500 generations). Also, if FitnessCalc.setSolution("int") was setted, line 34 in java 	
-	FitnessCalc have to be uncommented. If not, it will have no impact.
-	If FitnessCalc.setSolution("int") was not setted *FitnessCalc.setSolution("")*, GA is going to work slow, but GA will give 	
-	more solutions (first solution will be find approximately in 1700-2000 generations). Also, if FitnessCalc.setSolution("int") was 
-	not setted, line 34 in java FitnessCalc have to be commented. If not, it will have an error      				
-	(java.lang.arrayindexoutofboundsexception).
+The application returns one file which contains all information about each generation/iteration: number of genearation, life span of generation, and all genes for every individual, 
+
+## Thoughts
+
+I am satisfied with this project. However, the solution to the given problem is trivial: the creature has to stay in one spot to achieve an infinite life span. This is possible, if and only if the whole gene consists of look-up actions.
