@@ -9,13 +9,9 @@
 ## Demo
 https://user-images.githubusercontent.com/38252337/188287893-6bbe11fa-872b-4810-86c8-f23d6d824db1.mp4
 
----
+![](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case.png)
 
-![alt text](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case.png)
-
----
-
-![alt text](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case1.png)
+![](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case1.png)
 
 ## Description
 
