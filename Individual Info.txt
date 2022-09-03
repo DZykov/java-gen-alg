@@ -1,0 +1,54 @@
+
+Generation: 1
+Generation time: 24
+
+Individual: 0 Gene: 10331516023352431435312423141503 Fitness: 400 Apples: 1 Poison: 5
+Individual: 1 Gene: 54606065265354230004632402342330 Fitness: 650 Apples: 1 Poison: 2
+Individual: 2 Gene: 34112616340533340552251450354146 Fitness: -250 Apples: 0 Poison: 2
+Individual: 3 Gene: 10062450022010402360610203122334 Fitness: 540 Apples: 0 Poison: 0
+Individual: 4 Gene: 14100640212666242234441341303551 Fitness: 710 Apples: 0 Poison: 0
+Individual: 5 Gene: 34616151150152223515123355163461 Fitness: -690 Apples: 0 Poison: 0
+Individual: 6 Gene: 22565620431362466354205550345632 Fitness: 410 Apples: 3 Poison: 1
+Individual: 7 Gene: 42460211514122640266155113552455 Fitness: 1140 Apples: 1 Poison: 1
+Individual: 8 Gene: 43623310631251220465024635013156 Fitness: 640 Apples: 1 Poison: 0
+Individual: 9 Gene: 60333021045310151512313544144000 Fitness: 780 Apples: 3 Poison: 0
+Individual: 10 Gene: 56314054320010563166344120204666 Fitness: 890 Apples: 2 Poison: 1
+Individual: 11 Gene: 13126624650353064543411111411201 Fitness: 590 Apples: 2 Poison: 3
+Individual: 12 Gene: 34255612536534304054555055404356 Fitness: 1130 Apples: 2 Poison: 2
+Individual: 13 Gene: 16461260466542344563663644000104 Fitness: 1010 Apples: 1 Poison: 0
+Individual: 14 Gene: 11310336525365134401052322215341 Fitness: 560 Apples: 1 Poison: 0
+Individual: 15 Gene: 65052253306423406006655125111226 Fitness: 930 Apples: 2 Poison: 0
+Individual: 16 Gene: 00662263250004045325536324664051 Fitness: 960 Apples: 4 Poison: 2
+Individual: 17 Gene: 13351011032412562006124323155541 Fitness: 630 Apples: 3 Poison: 3
+Individual: 18 Gene: 02513033034605001316241551556240 Fitness: 760 Apples: 1 Poison: 1
+Individual: 19 Gene: 50232203023606531212540401100544 Fitness: 670 Apples: 3 Poison: 1
+Individual: 20 Gene: 20663053644003335610156644002554 Fitness: 660 Apples: 0 Poison: 3
+Individual: 21 Gene: 35360025066052510432321266166421 Fitness: 510 Apples: 1 Poison: 1
+Individual: 22 Gene: 64343064462026122331500152065462 Fitness: 890 Apples: 2 Poison: 0
+Individual: 23 Gene: 01243124361105063025456623415566 Fitness: 860 Apples: 4 Poison: 1
+Individual: 24 Gene: 40652541350303124152444653221424 Fitness: 650 Apples: 0 Poison: 1
+Individual: 25 Gene: 41212165325434115624203101600256 Fitness: 660 Apples: 1 Poison: 0
+Individual: 26 Gene: 51350351154205522142063046134613 Fitness: 530 Apples: 0 Poison: 1
+Individual: 27 Gene: 26311420055346414351611524416540 Fitness: 740 Apples: 2 Poison: 1
+Individual: 28 Gene: 43004022540463351205665602615603 Fitness: 690 Apples: 1 Poison: 2
+Individual: 29 Gene: 05465151445151222400506466041526 Fitness: 500 Apples: 2 Poison: 1
+Individual: 30 Gene: 45202005045661652411451606023662 Fitness: 60 Apples: 2 Poison: 2
+Individual: 31 Gene: 02543051625260033620115423343222 Fitness: 560 Apples: 0 Poison: 1
+Individual: 32 Gene: 41542546142346314114145242205450 Fitness: 840 Apples: 2 Poison: 1
+Individual: 33 Gene: 55125416065222352213455322340336 Fitness: 570 Apples: 1 Poison: 1
+Individual: 34 Gene: 64626111512300463014340554622310 Fitness: 410 Apples: 0 Poison: 1
+Individual: 35 Gene: 04456334436201120244203506011026 Fitness: 560 Apples: 0 Poison: 0
+Individual: 36 Gene: 23415311361622034232256613012442 Fitness: 460 Apples: 0 Poison: 3
+Individual: 37 Gene: 04541365335421320303602313104510 Fitness: 480 Apples: 1 Poison: 3
+Individual: 38 Gene: 62360141164545422452420265102553 Fitness: 670 Apples: 1 Poison: 1
+Individual: 39 Gene: 55100555206021545113021543251041 Fitness: 1170 Apples: 6 Poison: 2
+Individual: 40 Gene: 10163205122140005302564220651553 Fitness: 680 Apples: 4 Poison: 2
+Individual: 41 Gene: 61043050510412426422256133603204 Fitness: 780 Apples: 2 Poison: 1
+Individual: 42 Gene: 11100205610402166645635201030251 Fitness: 560 Apples: 2 Poison: 2
+Individual: 43 Gene: 35055002612440423610533446611443 Fitness: 620 Apples: 1 Poison: 3
+Individual: 44 Gene: 02520610011224443341210056643313 Fitness: 520 Apples: 0 Poison: 1
+Individual: 45 Gene: 01330645253643522542143432435654 Fitness: 660 Apples: 0 Poison: 1
+Individual: 46 Gene: 54453400351431666332500040510561 Fitness: 610 Apples: 0 Poison: 1
+Individual: 47 Gene: 66002130114034165152463561232420 Fitness: 640 Apples: 0 Poison: 0
+Individual: 48 Gene: 46061324145251026446604664101654 Fitness: 800 Apples: 0 Poison: 0
+Individual: 49 Gene: 21056641412023026640535346152013 Fitness: 940 Apples: 1 Poison: 0
