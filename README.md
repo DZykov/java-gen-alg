@@ -1,17 +1,25 @@
-# Adventure: Simple todo-cli
--    Simple todo-cli made with python. Supports multiples projects, colours, and repeated tasks. 
+# Genetic Algorithm: Live squares in Java
+-    This is my old implemenation of genetic algorithm in Java. No libraries were used, except UI Java libraries.
 
 ## Index
-   - [Workflow](#Workflow "Goto Workflow")
    - [Demo](#Demo "Goto Demo")
-   - [Installation](#Installation "Goto Installation")
-   - [Features](#Features "Goto Features")
-   - [Commands](#Commands "Goto Commands")
+   - [Description](#Description "Goto Description")
    - [Structure](#Structure "Goto Structure")
-   - [To-Do and Issues](#To-Do-and-Issues "Goto ToDo-and-Issues")
 
-
+## Demo
 https://user-images.githubusercontent.com/38252337/188287893-6bbe11fa-872b-4810-86c8-f23d6d824db1.mp4
+
+---
+
+![alt text](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case.png)
+
+---
+
+![alt text](https://github.com/DZykov/java-gen-alg/blob/master/img/show_case1.png)
+
+## Description
+
+
 
 Genes
 
